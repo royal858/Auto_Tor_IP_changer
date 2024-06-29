@@ -1,8 +1,9 @@
 # Auto_Tor_IP_changer V 2.1
 change your Ip Address automatically  This tool based on tor project
+10
 
-
-how to install this tools :
+how to install this
+tools :
 
 * : requirements:
 
